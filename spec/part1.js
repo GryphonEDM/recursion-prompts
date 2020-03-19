@@ -13,7 +13,7 @@
 			});
 
 			afterEach(function() {
-				factoriPal.reset();
+				factorial.reset();
 			});
 
 			after(function() {
